@@ -1,0 +1,25 @@
+class Switchcases
+{
+public static void main(String.... args)
+{
+     char c = 'a'
+switch(c){
+case 'a':
+   System.out.print(c +"it is vowel");
+   break;
+case 'e':
+   System.out.print(c +"it is vowel");
+   break;
+case 'i':
+   System.out.print(c +"it is vowel");
+   break;
+case 'o':
+   System.out.print(c +"it is vowel");
+   break;
+case 'u':
+   System.out.print(c +"it is vowel");
+   break;
+default:
+    System.out.print(c +"it is not vowel");
+}
+}}
